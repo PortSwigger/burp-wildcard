@@ -1,0 +1,11 @@
+Uuid: 75169476fd624bf5be1aa67bb8b974e6
+ExtensionType: 1
+Name: Wildcard
+ScreenVersion: 0.15
+SerialVersion: 1
+MinPlatformVersion: 0
+ProOnly: False
+Author: Marcin Woloszyn
+ShortDescription: Provides a proxy-like view with search filter capabilities.
+EntryPoint: dist/wildcard.jar
+BuildCommand: ant
