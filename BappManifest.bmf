@@ -1,6 +1,7 @@
 Uuid: 75169476fd624bf5be1aa67bb8b974e6
 ExtensionType: 1
 Name: Wildcard
+RepoName: wildcard
 ScreenVersion: 0.15
 SerialVersion: 1
 MinPlatformVersion: 0
