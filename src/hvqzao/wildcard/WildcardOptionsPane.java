@@ -84,8 +84,10 @@ public class WildcardOptionsPane extends javax.swing.JPanel {
         OptionsSettingsDefaults.setMinimumSize(new java.awt.Dimension(24, 24));
         OptionsSettingsDefaults.setPreferredSize(new java.awt.Dimension(24, 24));
 
+        OptionsSettingsTitle.putClientProperty("html.disable", null);
         OptionsSettingsTitle.setText("<html><b style='color:#e58900;font-size:10px'>Settings</b></html>");
 
+        OptionsSettingsDescription.putClientProperty("html.disable", null);
         OptionsSettingsDescription.setText("<html>Use these settings to control extension behavior.</html>");
 
         OptionsSettingsUnsupported.setText("Enable features not officially supported by Burp Extender");
